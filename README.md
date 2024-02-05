@@ -1,4 +1,5 @@
 # Book-Recommender-System
-Data Mining: Final Project
 
-Project code was produced by me and two others. Implements two different recommender systems, my contribution was the knowledge-based recommender implementation.
+## Two book recommendation systems: Knowledge-Based and Reinforcement Learning methodologies
+
+The two book recommendation systems comprise Knowledge-Based and Reinforcement Learning approaches, with a central focus on customizing book suggestions to suit user preferences. They adapt to changing behaviors through reinforcement learning and account for contextual subtleties. By combining knowledge-based suggestions with reinforcement learning, the aim is to offer dynamic, personalized book recommendations. The main objective is to suggest books that match user preferences while minimizing negative feedback and adapting to user interactions to improve future recommendations. The system utilizes both predefined and user-defined profiles to initiate recommendations and adjust them based on user feedback. Through the integration of these approaches, the project aims to create a versatile book recommendation system that enhances user satisfaction and recommendation accuracy.
